@@ -2,8 +2,6 @@
 
 [![Linkedin: thalestestoni](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalestestoni/)](https://www.linkedin.com/in/thalestestoni/)
 
-<img align='right' src="https://github.com/thalestestoni/thalestestoni/blob/master/assets/octocat_thales.png?raw=true" width="335">
-
 <p><em>Software Developer at <a href="https://www.havan.com.br/">Havan </a><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> 
 </em></p>
 
