@@ -10,13 +10,3 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=thalestestoni&&show_icons=true&theme=radical">
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 43 mins  ██████████████░░░░░░░░░░░   56.27 % 
-CSHTML       5 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-C#           3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-CSS          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-```
-<!--END_SECTION:waka-->
