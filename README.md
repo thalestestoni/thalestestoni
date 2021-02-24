@@ -6,7 +6,3 @@
 </em></p>
 
 <p>Javascript lover, I'm a full stack developer with NodeJS && ReactJS && React Native && Typescript.</p>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=thalestestoni&&show_icons=true&theme=radical">
