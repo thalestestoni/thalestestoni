@@ -1,3 +1,1 @@
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
-
-<img src=""https://giphy.com/embed/zOvBKUUEERdNm" width="200" />
+<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b761155ab82b404330db305e18a67bf41df85d8e6334c&rid=giphy.gif&ct=g" width="200" />
